@@ -90,8 +90,7 @@ if st.button("🔍 Analisis Sekarang"):
                 })
 
             except Exception as e:
-                st.error(f"❌ Gagal memproses komentar: '{comment[:30]}...'
-Error: {str(e)}")
+                st.error(f""" ❌ Gagal memproses komentar: '{comment[:30]}...'Error: {str(e)}""")
                 continue
 
         if results:
