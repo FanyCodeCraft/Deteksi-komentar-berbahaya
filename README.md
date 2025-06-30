@@ -1,4 +1,4 @@
-# ========== README.md ==========
+
 # 🚨 Deteksi Komentar Berbahaya AI
 
 Aplikasi Streamlit untuk mendeteksi tingkat bahaya komentar media sosial. Sistem ini menggabungkan model AI dan Machine Learning untuk mengklasifikasikan komentar ke dalam tiga kategori:
